@@ -9,7 +9,6 @@ public class MataKuliah {
         this.nama = nama;
         this.sks = sks;
     }
-
     public String getKode() {
         return kode;
     }
